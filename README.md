@@ -1,6 +1,6 @@
 # Maharashtra Assembly Election 2024 Result Data Analysis
 
-#Project Overview
+# Project Overview
 
 This project involves analyzing the results of the 2024 State Assembly elections in Maharashtra. The analysis aims to provide insights into various aspects of the election results, such as the number of seats won and contested by each party, parties strike rate, party vote share distribution etc.
 
