@@ -7,6 +7,7 @@ This project involves analyzing the results of the 2024 State Assembly elections
 ## Analysis Tasks
 
 # Maharashtra Assembly Election 2024 Result Data Analysis 
+Data Set - https://github.com/vmjadhav/Maharashtra-Assembly-Election-2024-Result-Data-Analysis/blob/main/Maharashtra_Election_Result.ipynb
 
 Notebook performs the following analyses:
 1. **Import Libraries**: Loading necessary libraries for data analysis and visualization.
@@ -20,7 +21,9 @@ Notebook performs the following analyses:
 9. **Highest and Lowest Vote Share Candidate**: Identifying top 5 candidates with the highest and lowest vote share.
 10. **Top 5 NOTA Constituencies**: Find top 5 NOTA Constituencies.
 
-# Maharashtra Assembly Election Voter Turnout Analysis 2024
+# Maharashtra Assembly Election 2024 Voter Turnout Analysis.
+Data Set - https://github.com/vmjadhav/Maharashtra-Assembly-Election-2024-Result-Data-Analysis/blob/main/male_female_voter_election_result.csv
+
 Notebook performs the following analyses:
 1. **Import Libraries**: Loading necessary libraries for data analysis and visualization.
 2. **Import Dataset**: Loading the maharashtra election 2024 male and female voter turnout result dataset.
